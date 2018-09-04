@@ -1,1 +1,1 @@
-web: python verkefni3b.py
+web: html ./index.html
