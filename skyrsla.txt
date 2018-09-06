@@ -1,0 +1,13 @@
+30/8 - Tími
+Byrjaði að rifja upp nokkra hluti í php eins og routing, klasa og fleira. Amk 1 og hálft ár síðan ég var í þessu
+
+04/9 - Tími
+Fór að kynna mér það sem þyrfti til þess að setja upp Laravel, niðurstaða tímans var að ég þyrfti alltaf að setja þetta upp á mína eigin vél
+vegna Composer og OpenSSL. 
+
+05/9 - Heima
+Vann heima í því að setja upp PHP þannig að það væri með opið fyrir notkun OpenSSL. Þurfti að breyta nokkrum PATH gildum í Windows til þess að þetta myndi ganga.
+Í framhaldi var Composer installaður, og svo Laravel.
+
+06/9 - Tími
+Fer í gegnum fyrstu kennslumyndböndin í Laravel, kynnt routing og frameworkið. Fór svo í það að kynna mér hvaða database ég ætti að nota í þetta.
